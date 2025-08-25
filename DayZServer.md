@@ -99,35 +99,64 @@ Medictents with some Loots please
 Do you also adjust the Loot from this Keychest? Each Weapon from the
 Key-Crates, KOTH and Airdrop must be loaded with one full AMG please
 
-Loot in Goldkey-Crate(randomly one Weapon, Random Silencers(1-2) :
-Anzio, Snipex,Ar-50,CSR,Lynx,AX50,AS50,KALAMIT,M82 Barret,CDX,AXMC
-Greenhouse-Kit(safe one), Silencer for all Weapons Ghilie Suits(one Set)
+### Goldkey-Crate
 
-Loot in Silverkey-Crate(randomly one Weapon, Random Silencers(1-2) :
-M200,M100,M300,SV98,Ruger,Remington,SRS,R700,DVL-10,SNOW-OWL,TTS
-Greenhouse-Kit(safe one), Silencer for all Weapons Ghilie Suits(one Set)
+**Random Weapons:** Anzio,  Snipex, Ar-50, CSR, Lynx, AX50, AS50, KALAMIT, M82 Barret, CDX, AXMC
 
-Loot in Bronzekey-Crate(randomly one Weapon, Random Silencers(1-2) :
-GEVAR,Barret MRAD, DELTA Silencer for all Weapons,Ghilie Suits(one Set),
-Random 2x good Storage(Big Safe,GunWall,DoubleGunRack,MilitaryLocker
-etc)
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Greenhouse Kit
+- Safe(s)
 
-Loot in Redkey-Crate(randomly one Weapon, Random Silencers(1-2) :
-PKP,PKM,M249,M240,M60,GEVAR,Barret MRAD, DELTA Silencer for all
-Weapons,Ghilie Suits(one Set)Random 1x good Storage(Big
-Safe,GunWall,DoubleGunRack,MilitaryLocker etc)
+### Silverkey-Crate
 
-Loot in Yellow-Crate(randomly one Weapon, Random Silencers(1-2)
-:PKP,PKM,M249,M240,M60 Silencer for all Weapons,Ghilie Suits(one Set)
-Building Stuff safe 5x PackNails, Saw,Hammer stuff like that 2x Storage
-like Cabinet, Safe,Small Safe, Gun Rack, Gun Case, Locker, Weapon Locker
+**Random Weapons:** M200, M100, M300, SV98, Ruger, Remington, SRS, R700, DVL-10, SNOW-OWL, TTS
 
-Loot in Black-Crate(randomly one Weapon, Random Silencers(1-2): random
-one from the BallerZ SNAFU Weapons Modpack Silencer for all
-Weapons,Ghilie Suits(one Set),Bitcoin-Mining Stuff
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Greenhouse Kit
+- Safe(s)
 
-Loot in Green Key-Crate : 5x Weedpacks, 50% Greenhousekit 50%
-Planterboxkit
+### Bronzekey-Crate
+
+**Random Weapons:** GEVAR, Barret MRAD,  DELTA
+
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Storage (Cabinet, Safe, Small Safe, Gun Rack, Gun Case, Locker, Weapon Locker, etc.)
+
+### Redkey-Crate
+
+**Random Weapons:** PKP, PKM, M249, M240, M60, GEVAR, Barret MRAD,  DELTA
+
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Storage (Cabinet, Safe, Small Safe, Gun Rack, Gun Case, Locker, Weapon Locker, etc.)
+
+### Yellow-Crate
+
+**Random Weapons:** PKP, PKM, M249, M240, M60
+
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Building Supplies (5x PackNails, Saw, Hammer, etc.)
+- Storage (Cabinet, Safe, Small Safe, Gun Rack, Gun Case, Locker, Weapon Locker, etc.)
+
+### Black-Crate
+
+**Random Weapons:** random
+one from the BallerZ SNAFU Weapons Modpack
+
+- Silencer for all Weapons
+- Ghillie Suits (one set)
+- Bitcoin Mining Equipment
+
+### Green Key-Crate
+
+**Random Weapons:** 5x Weedpacks,  50%
+
+- Greenhouse Kit
+- Planter Box Kit
 
 Loot in Blue-Keyroom one random Weapon from the SNAFU Weapon also
 Colored Pack Above 338. Lapua Silencer for all Weapons,Ghilie Suits(one
